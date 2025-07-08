@@ -92,5 +92,3 @@ int main() {
    elibereaza(prim);
     return 0;
 }
->>>>>>> 3fe33802c9211d379d94c2d2c3425d0e0d8cab13
-"# password_generator" 
